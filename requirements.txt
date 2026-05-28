@@ -7,4 +7,4 @@ plotly
 requests
 shapely
 pyproj
-fiona
+pyogrio
