@@ -3,8 +3,8 @@
 Application web géospatiale interactive – GIS Programming 2025-2026 EHTP
 
 ## Liens
-- GitHub : à compléter
-- Application : à compléter
+- GitHub : https://github.com/kaouterbrik/gis-weather-app
+- Application : https://gis-weather-app-gkvrbamslzvtdsnztegwmt.streamlit.app/
 
 ## Fonctionnalités
 - Navigation administrative : Région → Province → Commune
